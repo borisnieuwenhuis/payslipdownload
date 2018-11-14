@@ -1,11 +1,12 @@
+* goto https://raw.githubusercontent.com/borisnieuwenhuis/payslipdownload/master/getslips.js
+* select everything there and copy, ctrl-A ctrl-V
 * goto nmbrs payslips overview
 * nmbrs home -> payslips by period and click more link in the right bottom
 * open the chrome developer window By using keys alt-cmd-i
 * or menu -> view -> developer -> developer tools
 * click console tab
-* open a new chrome window
-* goto https://raw.githubusercontent.com/borisnieuwenhuis/payslipdownload/master/getslips.js
-* select everything there and paste it into the console of the first window
+* paste content of step 2, ctrl-V
+* press return key
 * all payslips will download to your downloads folder
 * the browser might give a message that it tries to download multiple download
 * dont worry, just click yes
