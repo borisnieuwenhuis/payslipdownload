@@ -1,5 +1,5 @@
 * goto https://raw.githubusercontent.com/borisnieuwenhuis/payslipdownload/master/getslips.js
-* select everything there and copy, ctrl-A ctrl-V
+* select everything there and copy, ctrl-a ctrl-v
 * goto nmbrs payslips overview
 * nmbrs home -> payslips by period and click more link in the right bottom
 * open the chrome developer window By using keys alt-cmd-i
