@@ -5,7 +5,7 @@
 * open the chrome developer window By using keys alt-cmd-i
 * or menu -> view -> developer -> developer tools
 * click console tab
-* paste content of step 2, ctrl-V
+* paste content of step 2, ctrl-v
 * press return key
 * all payslips will download to your downloads folder
 * the browser might give a message that it tries to download multiple download
